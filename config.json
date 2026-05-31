@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcalidate",
+        "uuid": 2614108,
+        "checksum": "5wxv2m"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
